@@ -11,6 +11,9 @@ Frontend: CSS, Jquery
 
 Backend: PHP, PDO, Mysql
 
+### Screenshots:
+https://github.com/Kit-Bryan/netflix-clone/blob/main/Website%20screenshots.pdf
+
 ### For downloading source code:
 
 The two remaining folders are located in the link provided below:
