@@ -10,3 +10,8 @@ The application includes the functionality to save the user's video progress. Wh
 Frontend: CSS, Jquery
 
 Backend: PHP, PDO, Mysql
+
+For downloading source code:
+The two remaining folders are located in the link provided below:
+https://drive.google.com/drive/folders/1v5nMyMfk1CDQTeJwsqZ1ZTUWCDED_jU0?usp=sharing
+(For previews and videos, add them to entities folder)
