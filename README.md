@@ -7,6 +7,8 @@ Retrieving the rows from the database using SQL and then displaying them in cate
 
 The application includes the functionality to save the user's video progress. When a user starts watching a video, the current time of the video is recorded and stored in the database. When the user comes back to the video later, the application will retrieve the stored time and start the video from that point.
 
+A search page is implemented for users to enter the title or keywords of the video they are searching for. Using JavaScript and jQuery, the input field can be monitored for changes and an AJAX call can be sent to the server every time the user enters a new letter.
+
 Frontend: CSS, Jquery
 
 Backend: PHP, PDO, Mysql
